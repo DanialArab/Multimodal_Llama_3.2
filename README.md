@@ -7,4 +7,4 @@ An agentic application refers to software or a system that behaves like an auton
 In the context of Llama Stack, an agentic application built with Llama models would likely be one that leverages language models like Llama (a family of AI models) to perform tasks autonomously. Examples could include intelligent assistants, chatbots, automated customer service systems, or other applications where the model can understand and respond to complex prompts, make decisions, and even adapt its behavior based on interaction.
 
 https://www.deeplearning.ai/short-courses/introducing-multimodal-llama-3-2/
-
+ 
